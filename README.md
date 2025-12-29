@@ -133,18 +133,4 @@ All file movements are logged with timestamps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-📧 Email: [your-email@example.com](bansal.lalit2004@gmail.com)
-🔗 GitHub: [https://github.com/your-username](https://github.com/LalitBansal04)
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
